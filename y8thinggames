@@ -4,20 +4,15 @@
 .webgl-content .logo, .progress, .text {position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
 .webgl-content .logo {background: url('logo.png') no-repeat center / contain; width: 154px; height: 130px;}
 .webgl-content .progress {height: 18px; width: 141px; margin-top: 80px;}
-.webgl-content .progress .empty {background: url('raw.githubusercontent.com/zackiscool000/y8thingxd/main/y8thinglolxd') no-repeat right / cover; float: right; width: 100%; height: 100%; display: inline-block;}
-.webgl-content .progress .full {background: url('raw.githubusercontent.com/zackiscool000/y8iscoolman/main/y8beingcooliguess') no-repeat left / cover; float: left; width: 0%; height: 100%; display: inline-block;}
 .webgl-content .text { margin-top: 110px; color: white; font-weight: 700;}
 .webgl-content .spinner { vertical-align: middle; }
 
-.webgl-content .logo.Dark {background-image: url('raw.githubusercontent.com/zackiscool000/y8coolthenlol/main/thenthatscooly8');  width: 206px; height: 130px; margin: 0 auto; background-size: 206px 130px;}
 .webgl-content .progress.Dark .empty {background: black;}
 .webgl-content .progress.Dark .full {background: red;}
 
 .webgl-content .footer {margin-top: 5px; height: 38px; line-height: 38px; font-family: Helvetica, Verdana, Arial, sans-serif; font-size: 18px;background: #fff;} 
 .webgl-content .footer .webgl-logo, .title, .fullscreen {height: 100%; display: inline-block; background: transparent center no-repeat;} 
-.webgl-content .footer .webgl-logo {background-image: url('raw.githubusercontent.com/zackiscool000/themakingiscooly8/main/y8theniguessxddd'); width: 204px; float: left;}
 .webgl-content .footer .title {margin-right: 10px; float: right;}
-.webgl-content .footer .fullscreen {background-image: url('raw.githubusercontent.com/zackiscool000/y8coolmanxdd/main/y8thencoollol'); width: 38px; float: right;}
 .webgl-content #gameContainer { background: #4D4D4D !important; }
 
 
@@ -48,34 +43,6 @@
   width: 66px;
 }
 
-.webgl-content .footer .unity.enable {
-  background-image: url('raw.githubusercontent.com/zackiscool000/y8coolxddidk/main/idkwhattodoy8');
-}
-
-.webgl-content .footer .unity.disable {
-  background-image: url('raw.githubusercontent.com/zackiscool000/y8whatinthexd/main/wowy8lolxd');
-}
-
-.webgl-content .footer .webgl.enable {
-  background-image: url('raw.githubusercontent.com/zackiscool000/y8omgwowlolxd/main/y8iscoolthenlolxd');
-}
-
-.webgl-content .footer .webgl.disable {
-  background-image: url('raw.githubusercontent.com/zackiscool000/browhatinthey8omg/main/whyy8omgxd');
-}
-
-.webgl-content .footer .fullscreen {
-  background-image: url('maximize-icon.png');
-  background-position: 10px center;
-  background-repeat: no-repeat;
-  background-size: 16px;
-  box-sizing: border-box;
-  color: #fff;
-  float: right;
-  font-size: 12px;
-  padding: 0 10px 0 36px;
-  width: auto;
-}
 .webgl-content .footer .unity.disable:hover,
 .webgl-content .footer .webgl.disable:hover,
 .webgl-content .footer .fullscreen:hover {
